@@ -1,8 +1,9 @@
 # PLSQL Assignment One — Sunrise Supermarket
 
-**Name:** Rasana
+**Name:** NDAGIJIMANA RASANA Bonte
 **Student ID:** 29506
-**Institution:** Adventist University of Central Africa (AUCA)
+**Course:**PL/SQL
+**Group:**C
 **DBMS used:** PostgreSQL 16
 
 ---
