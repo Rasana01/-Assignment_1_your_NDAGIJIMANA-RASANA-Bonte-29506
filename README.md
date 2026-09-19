@@ -2,8 +2,8 @@
 
 **Name:** NDAGIJIMANA RASANA Bonte
 **Student ID:** 29506
-**Course:**PL/SQL
-**Group:**C
+**Course:** PL/SQL
+**Group:** C
 **DBMS used:** PostgreSQL 16
 
 ---
